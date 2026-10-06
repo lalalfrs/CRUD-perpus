@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum Library System - Laravel & Eloquent Book Catalog",
+  "description": "Sistem katalog perpustakaan modern Athenaeum berbasis arsitektur Laravel Blade & Eloquent ORM dengan manajemen aset gambar buku dinamis, MySQL storage, dan inventaris sirkulasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
